@@ -1,1 +1,1 @@
-# TvMaze-React-native
+# TvMaze-React-Native
