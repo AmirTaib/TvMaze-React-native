@@ -1,0 +1,3 @@
+rootProject.name = 'TvmazeProject'
+
+include ':app'
